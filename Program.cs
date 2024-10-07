@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             // Asta test
             // nyt her
+            //og oggås her
         }
     }
 }
